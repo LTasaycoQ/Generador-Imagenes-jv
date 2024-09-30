@@ -1,0 +1,5 @@
+pe/edu/vallegrande/imagen/TranslateApplication.class
+pe/edu/vallegrande/imagen/controller/ImageController.class
+pe/edu/vallegrande/imagen/service/ImageGenerationService.class
+pe/edu/vallegrande/imagen/controller/ImageRequest.class
+pe/edu/vallegrande/imagen/config/SwaggerConfig.class
